@@ -19,5 +19,7 @@ bun dev
 Server
 
 ```
-[http://localhost:3000](http://localhost:3000)
+(http://localhost:3000)
 ```
+
+[http://localhost:3000]
