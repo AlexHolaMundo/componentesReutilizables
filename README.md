@@ -1,5 +1,8 @@
 Requerimientos
+
+```
 Node.js
+```
 
 Correr el proyecto
 
@@ -13,4 +16,8 @@ pnpm dev
 bun dev
 ```
 
-Server [http://localhost:3000](http://localhost:3000)
+Server
+
+```
+[http://localhost:3000](http://localhost:3000)
+```
